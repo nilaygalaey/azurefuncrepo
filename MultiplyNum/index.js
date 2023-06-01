@@ -9,7 +9,7 @@ module.exports = async function (context, req) {
     else{
         context.res = {
             status:400,
-            body:'Pass two number'
+            body:'Pass two numberss'
         }
     }        
 };
